@@ -3,7 +3,7 @@ basic-File-handling-utility
 Instructions :
 1. Navigate to the file directory.
 2. Run in terminal : 
- javac main.java
+ javac main.java\n
  java FileOps
 
 The following files will be created:
