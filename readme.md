@@ -7,7 +7,7 @@ Instructions :
   java FileOps
 
 Three Files will be created each showing the file handling utilites:
->input.txt: Original file with sample content
->modified.txt: File with modified content
->output.txt: Summary of operations performed
+* input.txt: Original file with sample content
+* modified.txt: File with modified content
+* output.txt: Summary of operations performed
 
