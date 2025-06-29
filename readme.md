@@ -1,4 +1,19 @@
-basic-File-handling-utility
+# Basic File Handling Utility
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : GIRISH KUMAR
+
+*INTERN_ID* : CT06DF2915
+
+*DOMAIN* : Java Programming
+
+*DURATION* : 6 WEEKS
+
+*MENTOR* : Neela Santhosh Kumar
+  
+  
+<br/><br/><br/>
 
 Instructions :
 1. Navigate to the file directory.
